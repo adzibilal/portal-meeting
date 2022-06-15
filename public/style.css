@@ -370,4 +370,16 @@ padding: 7px 30px !important;
     width: 100%;
     margin-bottom: 30px;
   }
+  .tit-head{
+    font-size: 20px;
+  }
+  .tit-body{
+    padding-right: 9px;
+  }
+  .flex-login{
+    margin-bottom: 50px;
+  }
+  .bg-gradient-list{
+    padding-bottom: 70px;
+  }
 }
